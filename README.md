@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+Hi my name is Hana. I have two cats Maki (3 years) and Nori (1 year), and a dog Izzie (11 years).
 
 ## Person B:
 
