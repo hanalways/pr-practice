@@ -12,7 +12,7 @@ I made a Bita text file.
 
 ## Person C:
 
-Person C should modify content here.
+These are my edits! - KG
 
 ## Person D:
 
